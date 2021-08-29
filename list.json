@@ -18,5 +18,15 @@
         "title": "关于服务器",
         "time": "2021-06-29",
         "file": "posts/关于.md"
-    }
+    },
+    {
+        "title": "开发人员文档",
+        "time": "2021-08-26",
+        "file": "posts/developer.md"
+    },
+	{
+		"title": "【必读】末日社团服务器规则",
+		"time": "2021-08-29",
+		"file": "posts/rules.md"
+	}
 ]
