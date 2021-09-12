@@ -1,6 +1,6 @@
 [
     {
-        "title": "如何进入或注册或登录到服务器",
+        "title": "【教程】如何进入或注册或登录到服务器",
         "time": "2021-06-19",
         "file": "posts/如何进入或注册或登录到服务器.md"
     },
@@ -10,7 +10,7 @@
         "file": "posts/update.md"
     },
     {
-        "title": "末日社团常用命令大全",
+        "title": "【教程】末日社团常用命令大全",
         "time": "2021-08-11",
         "file": "posts/commands.md"
     },
@@ -28,5 +28,15 @@
 		"title": "【必读】末日社团服务器规则",
 		"time": "2021-08-29",
 		"file": "posts/rules.md"
+	},
+	{
+		"title": "【教程】让玩家花费金钱来触发红石，可做抽奖机",
+		"time": "2021-09-13",
+		"file": "posts/redstone_sign.md"
+	},
+	{
+		"title": "【教程】使用圈地来挡住熊孩子吧",
+		"time": "2021-09-13",
+		"file": "posts/residence.md"
 	}
 ]
