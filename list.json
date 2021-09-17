@@ -7,13 +7,6 @@
         "file": "posts/如何进入或注册或登录到服务器.md"
     },
     {
-        "title": "更新日志",
-		"color": "#000",
-		"bold": false,
-        "time": "2021-08-06",
-        "file": "posts/update.md"
-    },
-    {
         "title": "【教程】末日社团常用命令大全",
 		"color": "#000",
 		"bold": false,
@@ -54,6 +47,13 @@
 	
 	
 	
+    {
+        "title": "更新日志",
+		"color": "#00AAAA",
+		"bold": true,
+        "time": "2021-08-06",
+        "file": "posts/update.md"
+    },
 	{
 		"title": "【必读】末日社团服务器规则",
 		"color": "#FE0000",
