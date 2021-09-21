@@ -2,6 +2,10 @@
 
 这份文档会写出开发人员可能需要的东西，未来服务器可能会开放API接口，半开源到 `Github` 让玩家能够开发可操作服务器基础插件数据的插件。
 
+## 公开 HTTP 接口
+
+详见 [末日社团公开API](https://www.doomteam.fun/PublicApi)
+
 ## PlaceholderAPI 变量
 
 `respawnneedle_get` 获取玩家复活针数量
