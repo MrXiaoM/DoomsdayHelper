@@ -4,10 +4,10 @@
 
 ### `玩家信息`
 
-* `请求URL:` [`api.doomteam.fun/player`](api.doomteam.fun/player)
+* `请求URL:` [`api.doomteam.fun/player`](https://api.doomteam.fun/player)
 * `方法:` `GET`
 * `必要字段:` `player=[玩家名称]`
-* `示例:` [`api.doomteam.fun/player?player=CuteStarX`](api.doomteam.fun/player?player=CuteStarX)
+* `示例:` [`api.doomteam.fun/player?player=CuteStarX`](https://api.doomteam.fun/player?player=CuteStarX)
 * `成功返回示例:` 
 
 
@@ -20,7 +20,7 @@
 
 ### `服务器状态`
 
-* `请求URL:` [`api.doomteam.fun/status`](api.doomteam.fun/status)
+* `请求URL:` [`api.doomteam.fun/status`](https://api.doomteam.fun/status)
 * `方法:` `GET`
 * `成功示例:`
 
