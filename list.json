@@ -84,5 +84,13 @@
         "bold": true,
         "time": "2021-08-29",
         "file": "posts/rules.md"
+    },
+    {
+    "title": "公开API",
+        "author": "CuteStar",
+        "color": "#000000",
+        "bold": true,
+        "time": "2021-09-21",
+        "file": "posts/PublicApi.md"
     }
 ]
